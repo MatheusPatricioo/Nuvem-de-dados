@@ -21,6 +21,13 @@ The **Clouds Rain Data** project is a simple web-based animation created using H
 This project was inspired by [Professor Edson Maia's] teachings and modified by [Matheus Patricio].
 
 ## Preview
+[![Clouds Rain Data Project Preview](preview.png)](https://your-project-url.com)
+
+Above is a snapshot of the project. Click on the image to view an interactive version of the project in action.
+
+
+
+## Preview
 [![Clouds Rain Data Preview](preview.png)](https://your-project-url.com)
 
 ## License
